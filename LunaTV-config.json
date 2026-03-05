@@ -4,7 +4,7 @@
 
     "Lzizy1.com": {
       "name": "🎬量子资源",
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "detail": "https://lzizy.net"
     },
 

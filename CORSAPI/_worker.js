@@ -335,6 +335,10 @@ async function handleHomePage(currentOrigin, defaultPrefix) {
     <li>✅ 支持多种配置源切换</li>
     <li>✅ 支持 Base58 编码输出</li>
   </ul>
+
+  <h2>🏥 健康检查</h2>
+  <p>访问 <code>/health</code> 端点检查服务状态：</p>
+  <pre>${currentOrigin}/health</pre>
   
   <script>
     document.querySelectorAll('.copy-btn').forEach((btn, idx) => {

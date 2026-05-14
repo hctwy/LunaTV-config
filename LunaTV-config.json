@@ -5,12 +5,12 @@
     "Lzizy1.com": {
       "name": "🎬量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "detail": "https://lzizy.net"
+      "detail": "https://cj.lziapi.com"
     },
 
     "lzizy.net": {
       "name": "🎬量子影视",
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
       "detail": "https://lzizy.net"
     },
 

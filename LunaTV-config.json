@@ -260,12 +260,6 @@
       "name": "🎬闪电资源",
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "detail": "https://shandianzy.com"
-    },
-    "yhzy.cc": {
-      "_comment": " 403 Forbidden ",
-      "name": "🎬樱花资源",
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "detail": "https://yhzy.cc"
     }
   }
 }
